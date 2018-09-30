@@ -1,0 +1,8 @@
+com\swacorp\springweb\controller\RegisterController.class
+com\swacorp\springweb\entity\User.class
+com\swacorp\springweb\dao\UserDao.class
+com\swacorp\springweb\service\UserService.class
+com\swacorp\springweb\dao\LoginDao.class
+com\swacorp\springweb\controller\LoginController.class
+com\swacorp\springweb\entity\Login.class
+com\swacorp\springweb\service\LoginService.class
